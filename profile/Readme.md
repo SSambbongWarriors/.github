@@ -35,7 +35,7 @@
 | ---- | ----------------------- |
 | 김예린 (2176079)  | Team Lead & Backend Dev |
 | 문재원 (2276107)  | AI Engineer             |
-| 박서연 ()  | Frontend Developer      |
+| 박서연 (2171014)  | Frontend Developer      |
 
 ---
 
