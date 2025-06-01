@@ -25,7 +25,7 @@
 | ------------- | --------------------------------------------------------------------------------- | -------------------------------------------------- |
 | 🌐 Frontend   | [NewValance-FE](https://github.com/SSambbongWarriors/NewValance-FE)               | React + TypeScript UI for personalized video feed. |
 | ⚙️ Backend    | [NewValance-Server](https://github.com/SSambbongWarriors/NewValance-Server)       | Spring Boot API with JWT & OAuth2 authentication.  |
-| 🤖 AI Service | [NewValance-AI-Server](https://github.com/SSambbongWarriors/NewValance-AI-Server) | Recommendation engine using ML & deep learning.    |
+| 🤖 AI Service | [NewValance-AI-Server](https://github.com/SSambbongWarriors/NewValance-AI-Server) | FastAPI for AI pipeline.   |
 
 ---
 
