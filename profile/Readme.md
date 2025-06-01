@@ -34,7 +34,7 @@
 | Name | Role                    |
 | ---- | ----------------------- |
 | 김예린 (2176079)  | Team Lead & Backend Dev |
-| 문재원 ()  | AI Engineer             |
+| 문재원 (2276107)  | AI Engineer             |
 | 박서연 ()  | Frontend Developer      |
 
 ---
@@ -43,7 +43,7 @@
 
 * **Frontend:** React Native, TypeScript
 * **Backend:** Java 17, Spring Boot, JPA, Lombok, MySQL
-* **AI:** Python
+* **AI:** Python, FastAPI
 * **DevOps:** Docker, AWS EC2, AWS RDS
 
 ---
